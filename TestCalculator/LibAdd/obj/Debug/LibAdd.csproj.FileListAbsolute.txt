@@ -1,0 +1,7 @@
+D:\clone\TestCalculator\LibAdd\obj\Debug\LibAdd.csprojResolveAssemblyReference.cache
+D:\clone\TestCalculator\LibAdd\bin\Debug\LibAdd.dll
+D:\clone\TestCalculator\LibAdd\bin\Debug\LibAdd.pdb
+D:\clone\TestCalculator\LibAdd\bin\Debug\MyInterface.dll
+D:\clone\TestCalculator\LibAdd\bin\Debug\MyInterface.pdb
+D:\clone\TestCalculator\LibAdd\obj\Debug\LibAdd.dll
+D:\clone\TestCalculator\LibAdd\obj\Debug\LibAdd.pdb

@@ -1,1 +1,8 @@
 D:\clone\TestCalculator\JiSuanQi\bin\Debug\JiSuanQi.exe.config
+D:\clone\TestCalculator\JiSuanQi\bin\Debug\JiSuanQi.exe
+D:\clone\TestCalculator\JiSuanQi\bin\Debug\JiSuanQi.pdb
+D:\clone\TestCalculator\JiSuanQi\obj\Debug\JiSuanQi.csprojResolveAssemblyReference.cache
+D:\clone\TestCalculator\JiSuanQi\obj\Debug\JiSuanQi.Properties.Resources.resources
+D:\clone\TestCalculator\JiSuanQi\obj\Debug\JiSuanQi.csproj.GenerateResource.Cache
+D:\clone\TestCalculator\JiSuanQi\obj\Debug\JiSuanQi.exe
+D:\clone\TestCalculator\JiSuanQi\obj\Debug\JiSuanQi.pdb

@@ -25,7 +25,7 @@ namespace LibAdd
 
         public string Opertation
         {
-            get { return "+" }
+            get { return "+"; }
         }
     }
 }

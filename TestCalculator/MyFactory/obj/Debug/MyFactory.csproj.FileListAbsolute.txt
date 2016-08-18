@@ -1,0 +1,7 @@
+D:\clone\TestCalculator\MyFactory\obj\Debug\MyFactory.csprojResolveAssemblyReference.cache
+D:\clone\TestCalculator\MyFactory\bin\Debug\MyFactory.dll
+D:\clone\TestCalculator\MyFactory\bin\Debug\MyFactory.pdb
+D:\clone\TestCalculator\MyFactory\bin\Debug\MyInterface.dll
+D:\clone\TestCalculator\MyFactory\bin\Debug\MyInterface.pdb
+D:\clone\TestCalculator\MyFactory\obj\Debug\MyFactory.dll
+D:\clone\TestCalculator\MyFactory\obj\Debug\MyFactory.pdb

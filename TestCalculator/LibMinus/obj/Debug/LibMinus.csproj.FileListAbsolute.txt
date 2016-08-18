@@ -1,0 +1,7 @@
+D:\clone\TestCalculator\LibMinus\obj\Debug\LibMinus.csprojResolveAssemblyReference.cache
+D:\clone\TestCalculator\LibMinus\bin\Debug\LibMinus.dll
+D:\clone\TestCalculator\LibMinus\bin\Debug\LibMinus.pdb
+D:\clone\TestCalculator\LibMinus\bin\Debug\MyInterface.dll
+D:\clone\TestCalculator\LibMinus\bin\Debug\MyInterface.pdb
+D:\clone\TestCalculator\LibMinus\obj\Debug\LibMinus.dll
+D:\clone\TestCalculator\LibMinus\obj\Debug\LibMinus.pdb

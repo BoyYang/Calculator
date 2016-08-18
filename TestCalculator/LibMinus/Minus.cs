@@ -20,12 +20,12 @@ namespace LibMinus
         
         public int GetResult()
         {
-            return this._num1-this._num2
+            return this._num1 - this._num2;
         }
 
         public string Opertation
         {
-            get { return "-" }
+            get { return "-"; }
         }
     }
 }

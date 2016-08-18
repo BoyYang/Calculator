@@ -1,0 +1,4 @@
+D:\clone\TestCalculator\MyInterface\bin\Debug\MyInterface.dll
+D:\clone\TestCalculator\MyInterface\bin\Debug\MyInterface.pdb
+D:\clone\TestCalculator\MyInterface\obj\Debug\MyInterface.dll
+D:\clone\TestCalculator\MyInterface\obj\Debug\MyInterface.pdb
