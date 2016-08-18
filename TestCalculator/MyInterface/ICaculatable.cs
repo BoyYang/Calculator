@@ -6,8 +6,18 @@ using System.Threading.Tasks;
 
 namespace MyInterface
 {
-    interface ICaculatable
+    public interface ICaculatable
     {
+        /// <summary>
+        /// 计算方法
+        /// </summary>
+        /// <returns></returns>
         int GetResult();
+
+        /// <summary>
+        /// 运算符
+        /// </summary>
+        string Opertation
+        { get; }
     }
 }

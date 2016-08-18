@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D59CDB43-0F87-41CD-9C67-F8A1A2409EF6}</ProjectGuid>
+    <ProjectGuid>{50565721-F5C3-4C1E-991C-7CB77B361535}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MyInterface</RootNamespace>
-    <AssemblyName>MyInterface</AssemblyName>
+    <RootNamespace>LibMinus</RootNamespace>
+    <AssemblyName>LibMinus</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,8 +39,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ICaculatable.cs" />
+    <Compile Include="Minus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyInterface\MyInterface.csproj">
+      <Project>{d59cdb43-0f87-41cd-9c67-f8a1a2409ef6}</Project>
+      <Name>MyInterface</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
